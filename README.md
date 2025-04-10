@@ -7,7 +7,7 @@
 <img src="https://github.com/user-attachments/assets/6c5640f0-e1b8-4c80-85dc-ff96c2db05ec">
 
 # 💫 About Me:
-🔭 I’m currently working on: <br>Web and app development projects, focusing on algorithms and design patterns.<br>🌱 I’m currently learning: <br>more about web app developement (PHP and Laravel) also trying to get familiar with app developement (C#)<br>💬 Ask me about: <br>Web App Development, App Development, and anything related to programming languages like PHP, Python, and specially C family.<br>⚡ Fun fact: <br>I consider myself a young plague doctor—quite an interesting persona!
+🔭 I’m currently working on: <br>Web and app development projects, focusing on algorithms and design patterns.<br>🌱 I’m currently learning: <br>more about web app developement (PHP and Laravel) also trying to get familiar with app developement (C#)<br>💬 Ask me about: <br>Web App Development, App Development, and anything related to programming languages like PHP, Python, and specially C family.<br>⚡ Fun fact: <br>I consider myself a young plague doctor—quite an interesting persona! <br> 🐦‍⬛ Crow lover
 
 ## 🔗 Let's Connect!
 
